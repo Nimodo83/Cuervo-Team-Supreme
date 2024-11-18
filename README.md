@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3AF3E7&height=120&section=header"/>
+
 <p align="center">
 <a href="https://github.com/Nimodo83"><img title="Nimodo83" src="https://img.shields.io/badge/github-Cuervo-orange.svg?style=social&logo=github"></a>
 </p>
