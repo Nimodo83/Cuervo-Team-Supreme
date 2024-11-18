@@ -18,8 +18,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
 <div align="center">
-<a href="https://github.com/Dev-Diego/"><img src="https://github-readme-stats.vercel.app/api?username=Dev-Diego&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Diego&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="Dev-Diego"/>
+<a href="https://github.com/Nimodo83/"><img src="https://github-readme-stats.vercel.app/api?username=Nimodo83&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimodo83&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="Nimodo83"/>
 <br><br>
 </a>
 
@@ -28,8 +28,8 @@
 </p> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MI+PROYECTO+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<a href="https://github.com/Dev-Diego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Diego&repo=YaemoriBot-MD&theme=ambient_gradient)</a>
-<a href="https://github.com/Dev-Diego/YaemoriBot-TG">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Diego&repo=YaemoriBot-TG&theme=rose)</a>
+<a href="https://github.com/Nimodo83/Rurushi-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Nimodo83&repo=Rurushi-Bot&theme=black)</a>
+<a href="https://github.com/Nimodo83/Cuervo-Team-Supreme">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Nimodo83&repo=Cuervo-Team-Supreme&theme=black)</a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
