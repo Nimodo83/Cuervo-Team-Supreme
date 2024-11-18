@@ -17,6 +17,10 @@
 <a href="https://github.com/Nimodo83/Cuervo-Team-Supreme/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/Nimodo83/Cuervo-Team-Supreme?logo=github&style=social"></a>
 </p>
 
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p> 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
 <div align="center">
@@ -25,9 +29,6 @@
 <br><br>
 </a>
 
-<p align="center"> 
-<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
-</p> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MI+PROYECTO+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <a href="https://github.com/Nimodo83/Rurushi-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Nimodo83&repo=Rurushi-Bot&theme=merko)</a>
