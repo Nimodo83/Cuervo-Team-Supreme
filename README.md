@@ -10,8 +10,8 @@
 <p align="center">
 <a href="https://github.com/Nimodo83/followers"><img title="Followers" src="https://img.shields.io/github/followers/Nimodo83?label=Followers&style=social"></a>
 <a href="https://github.com/Nimodo83/Cuervo-Team-Supreme/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nimodo83/Cuervo-Team-Supreme?&style=social"></a>
-<a href="https://github.com/Nimodo83/Nimodo/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Nimodo83/Cuervo-Team-Supreme?style=social"></a>
-<a href="https://github.com/Nimodo83/Nimodo83/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/Cuervo-Team-Supreme?label=Watching&style=social"></a>
+<a href="https://github.com/Nimodo83/Cuervo-Team-Supreme/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Nimodo83/Cuervo-Team-Supreme?style=social"></a>
+<a href="https://github.com/Nimodo83/Cuervo-Team-Supreme/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nimodo83/Cuervo-Team-Supreme?label=Watching&style=social"></a>
 <a href="https://github.com/Nimodo83/Cuervo-Team-Supreme/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/Nimodo83/Cuervo-Team-Supreme?logo=github&style=social"></a>
 </p>
 
