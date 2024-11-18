@@ -1,18 +1,18 @@
 <p align="center">
-<a href="https://github.com/Nimodo83"><img title="Cuervo" src="https://img.shields.io/badge/github-FG98-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Nimodo83"><img title="Nimodo83" src="https://img.shields.io/badge/github-Cuervo-orange.svg?style=social&logo=github"></a>
 </p>
 <p align="center">
-<img src="https://gpvc.arturio.dev/FG98F" />
+<img src="https://gpvc.arturio.dev/Nimodo83" />
 <p/>
 <p align="center">
-<a href="https://github.com/FG98F"><img title="Author" src="https://img.shields.io/badge/DyLux Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/Nimodo83"><img title="Author" src="https://img.shields.io/badge/Cuervo-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/FG98F/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-bot?&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/dylux-bot?style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-bot?label=Watching&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/FG98F/dylux-bot?logo=github&style=social"></a>
+<a href="https://github.com/Nimodo83/followers"><img title="Followers" src="https://img.shields.io/github/followers/Nimodo83?label=Followers&style=social"></a>
+<a href="https://github.com/Nimodo83/Cuervo-Team-Supreme/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nimodo83/Cuervo-Team-Supreme?&style=social"></a>
+<a href="https://github.com/Nimodo83/Nimodo/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Nimodo83/Cuervo-Team-Supreme?style=social"></a>
+<a href="https://github.com/Nimodo83/Nimodo83/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/Cuervo-Team-Supreme?label=Watching&style=social"></a>
+<a href="https://github.com/Nimodo83/Cuervo-Team-Supreme/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/Nimodo83/Cuervo-Team-Supreme?logo=github&style=social"></a>
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
