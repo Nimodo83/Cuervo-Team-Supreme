@@ -4,8 +4,8 @@
 <a href="https://github.com/Nimodo83"><img title="Nimodo83" src="https://img.shields.io/badge/github-Cuervo-orange.svg?style=social&logo=github"></a>
 </p>
 <p align="center">
-<img src="https://gpvc.arturio.dev/Nimodo83"/>
-<p/>
+<a
+href="https://github.com/Nimodo83"><img src="https://github.com/Nimodo83.png" width="130" height="130" alt="ઈ𓅇𝐂𝐮𝐞𝐫𝐯𝐨𝐎𝐅𝐂𓆰ࣩ֟፝𓆪"/></a>
 <p align="center">
 <a href="https://github.com/Nimodo83"><img title="Author" src="https://img.shields.io/badge/Cuervo-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
