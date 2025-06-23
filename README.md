@@ -39,3 +39,21 @@ href="https://github.com/Nimodo83"><img src="https://github.com/Nimodo83.png" wi
 <a href="https://github.com/David-Chian/Megumin-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=David-Chian&repo=Megumin-Bot-MD&theme=ambient_gradient)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+### ✐ Cuervo-Host 
+<a href="https://dash.cuervo-host.xyz"><img src="https://i.ibb.co/MkdzY0NX/IMG-20250621-WA0205.jpg" height="125px"></a>
+
+<details>
+ <summary><b>✰ Enlaces Importantes</b></summary>
+
+- **✐ Dashboard:** [`🜸 Aquí`](https://dash.cuervo-host.xyz)
+- **✐ Panel:** [`🜸 Aquí`](https://panel.cuervo-host.xyz)
+- **✐ Canal de WhatsApp:** [`🜸 Aquí`](https://whatsapp.com/channel/0029VarQy9n2kNFzVAKReQ2V)
+- **✐ Contacto(s):** 
+[`🜸 CuervoOFC`](https://wa.me/8562099154238)
+
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
