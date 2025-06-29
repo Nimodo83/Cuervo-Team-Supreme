@@ -33,6 +33,7 @@ href="https://github.com/Nimodo83"><img src="https://github.com/Nimodo83.png" wi
 
 <a href="https://github.com/Nimodo83/Yue-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Nimodo83&repo=Yue-Bot&theme=merko)</a>
 <a href="https://github.com/Nimodo83/RemWha-Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Nimodo83&repo=RemWha-Bot&theme=merko)</a>
+<a href="https://github.com/CuervoOFC/MIYAMURABOT">![github card](https://github-readme-stats.vercel.app/api/pin/?username=CuervoOFC&repo=MIYAMURABOT&theme=merko)</a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=F7A3EF&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%A4%9D+COLABORACI%C3%93N+%F0%9F%A4%9D" alt="Typing SVG" /></a>
 
